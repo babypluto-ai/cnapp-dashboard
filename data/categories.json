@@ -1,0 +1,50 @@
+[
+  {
+    "id": "category1",
+    "name": "CSPM Executive Dashboard",
+    "widgets": [
+      {
+        "id": "widget1",
+        "name": "Widget 1",
+        "text": "This is Widget 1 content"
+      },
+      {
+        "id": "widget2",
+        "name": "Widget 2",
+        "text": "This is Widget 2 content"
+      }
+    ]
+  },
+  {
+    "id": "category2",
+    "name": "CSPM Security Dashboard",
+    "widgets": [
+      {
+        "id": "widget3",
+        "name": "Widget 3",
+        "text": "This is Widget 3 content"
+      },
+      {
+        "id": "widget4",
+        "name": "Widget 4",
+        "text": "This is Widget 4 content"
+      }
+    ]
+  },
+  {
+    "id": "category3",
+    "name": "Registry Scan",
+    "widgets": [
+      {
+        "id": "widget5",
+        "name": "Widget 5",
+        "text": "This is Widget 5 content"
+      },
+      {
+        "id": "widget6",
+        "name": "Widget 6",
+        "text": "This is Widget 6 content"
+      }
+    ]
+  }
+]
