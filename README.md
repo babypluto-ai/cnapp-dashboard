@@ -17,19 +17,19 @@ Here are some screenshots of the application in action:
 
 ### Dashboard Overview
 
-![Dashboard Overview](assets\screenshots\dashboard-overview.png)
+![Dashboard Overview](https://github.com/user-attachments/assets/63f7c9ad-98d9-4bce-8be7-e1b14729631c)
 
-### Adding a Widget
+### Adding Widget
 
-![Adding a Widget](assets\screenshots\add-widget.png)
+![Adding Widget](https://github.com/user-attachments/assets/9e729d5e-381b-404e-ad0e-e7ef835ee924)
 
 ### Remove Widget
 
-![Widget Remove](assets\screenshots\remove-widget.png)
+![Remove Widget](https://github.com/user-attachments/assets/ba126af9-3d5a-4f90-a9f7-8053a0eb4165)
 
 ### Widget Search
 
-![Widget Search](assets\screenshots\search-widget.png)
+![Search Widget](https://github.com/user-attachments/assets/803a0673-5081-4cca-92b8-2fcf8a8931de)
 
 ## Getting Started
 
