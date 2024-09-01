@@ -11,6 +11,26 @@ This project is an assessment for Frontend Trainees to create a dynamic Dashboar
 3. **Search Functionality**: A search feature to find widgets easily.
 4. **User Interaction**: Simple forms to add widget details.
 
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+### Dashboard Overview
+
+![Dashboard Overview](assets\screenshots\dashboard-overview.png)
+
+### Adding a Widget
+
+![Adding a Widget](assets\screenshots\add-widget.png)
+
+### Remove Widget
+
+![Widget Remove](assets\screenshots\remove-widget.png)
+
+### Widget Search
+
+![Widget Search](assets\screenshots\search-widget.png)
+
 ## Getting Started
 
 To run this application locally, follow these steps:
